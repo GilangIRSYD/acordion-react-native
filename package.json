@@ -1,0 +1,31 @@
+{
+  "name": "acordion-react-native",
+  "version": "1.0.0",
+  "description": "A simple react native acordion component with animation, easy use and fully customize",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilangIRSYD/acordion-react-native.git"
+  },
+  "keywords": [
+    "react-native",
+    "acordion",
+    "rn-acordion",
+    "animation",
+    "component",
+    "acordion-react-native"
+  ],
+  "author": "gilang_sp",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  },
+  "bugs": {
+    "url": "https://github.com/GilangIRSYD/acordion-react-native/issues"
+  },
+  "homepage": "https://github.com/GilangIRSYD/acordion-react-native#readme"
+}
